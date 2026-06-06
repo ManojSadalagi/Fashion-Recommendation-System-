@@ -59,3 +59,15 @@ The system is deployed as an interactive **Streamlit web application**, allowing
 * Advanced deep learning models (EfficientNet, Vision Transformers)
 
 ⭐ If you found this project useful, feel free to star the repository.
+Fashion-Recommendation-System/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── images/
+├── model/
+│   ├── embeddings.pkl
+│   ├── filenames.pkl
+│   └── knn_model.pkl
+│
+└── dataset/
